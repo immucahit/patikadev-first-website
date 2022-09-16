@@ -1,2 +1,1 @@
-# patikadev-first-website
-Patika.dev First Website
+# Patika.dev First Web Site
